@@ -1,0 +1,9 @@
+[submodule "daenerys-db-saver"]
+	path = daenerys-db-saver
+	url = https://github.com/awsmockery/daenerys-db-saver.git
+[submodule "the-hound-consumer"]
+	path = the-hound-consumer
+	url = https://github.com/awsmockery/the-hound-consumer.git
+[submodule "king-joffrey-publisher"]
+	path = king-joffrey-publisher
+	url = https://github.com/awsmockery/king-joffrey-publisher.git
